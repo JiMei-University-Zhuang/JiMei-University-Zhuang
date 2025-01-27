@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+%E5%B0%8F%E5%BA%84zzz;Welcome+to+my+GitHub+profile+%F0%9F%8C%9F" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+%E5%B0%8F%E5%BA%84zzz;A+Frontend+Developer+%26+Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
     </a>
 </div>
 
@@ -12,17 +12,20 @@
 
 <hr>
 
-<div align="center">
-    <h3>👨‍💻 About Me</h3>
-    <p>🎓 就读于集美大学计算机系</p>
-    <p>💡 热爱前端开发，对新技术充满热情</p>
-    <p>🌱 正在学习 React、Vue、TypeScript</p>
-    <p>🎯 目标是成为一名优秀的前端工程师</p>
-    <p>💬 欢迎交流前端技术和开发经验</p>
-    <p>✨ 相信技术改变世界</p>
-</div>
 
-## 🛠 Tech Stack
+<div align="center">
+
+<h3>👨‍💻 About Me</h3>
+<p>🎓 就读于集美大学诚毅学院软件工程系</p>
+<p>💼 正在美图担任前端开发实习生</p>
+<p>📷 负责美图秀秀、美颜相机、Wink产品线研发</p>
+<p>💡 热爱前端开发和c端业务，对新技术充满热情</p>
+<p>🌱 正在深入学习 React、Vue、Next、Hybrid、小程序</p>
+<p>💬 欢迎交流前端技术和开发经验</p>
+<p>✨ 让我们一起用技术创造美好</p>
+<hr>
+
+</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
