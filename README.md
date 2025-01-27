@@ -12,7 +12,6 @@
 
 <hr>
 
-
 <div align="center">
 
 <h3>👨‍💻 About Me</h3>
@@ -55,4 +54,11 @@
 
 <!-- 添加一个有趣的 snake 贪吃蛇动画 -->
 
-![Snake animation](https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiMei-University-Zhuang/JiMei-University-Zhuang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiMei-University-Zhuang/JiMei-University-Zhuang/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JiMei-University-Zhuang/JiMei-University-Zhuang/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Snake animation](https://github.com/JiMei-University-Zhuang/JiMei-University-Zhuang/blob/output/github-contribution-grid-snake.svg)
