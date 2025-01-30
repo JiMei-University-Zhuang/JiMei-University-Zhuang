@@ -6,7 +6,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=bilibili&color=000&labelColor=ff69b4&label=Bilibili&query=$.data.follower&suffix=%20Fans&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D489516025" alt="Bilibili Fans">
-    <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=CSDN&color=000&labelColor=red&label=CSDN&query=$.data.fans_count&suffix=%20Fans&url=https%3A%2F%2Fblog.csdn.net%2Fcommunity%2Fhome-api%2Fv1%2Fget-tab-total%3Fusername%3D%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8A%E8%BF%9B" alt="CSDN Fans">
+    <img src="https://img.shields.io/badge/CSDN-%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8A%E8%BF%9B%20%7C%204520%20Fans-red.svg?logo=CSDN&logoColor=white" alt="CSDN">
     <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJiMei-University-Zhuang" alt="">
     <img src="https://komarev.com/ghpvc/?username=JiMei-University-Zhuang&&style=flat-square">
 </div>
