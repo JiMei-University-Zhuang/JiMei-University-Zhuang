@@ -7,6 +7,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=bilibili&color=000&labelColor=ff69b4&label=Bilibili&query=$.data.follower&suffix=%20Fans&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D489516025" alt="Bilibili Fans">
     <img src="https://img.shields.io/badge/CSDN-%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8A%E8%BF%9B%20%7C%204520%20Fans-red.svg?logo=CSDN&logoColor=white" alt="CSDN">
+    <a href="https://juejin.cn/user/4130230608342184/posts">
+        <img src="https://img.shields.io/badge/Juejin-%E5%B0%8F%E5%BA%84zzz-1e80ff?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzNiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy41ODc1IDYuNzcyNjhMMjEuODIzMiAzLjQwNTA1TDE3LjU4NzUgMC4wMDc0ODIzN0wxNy41ODM3IDBMMTMuMzQ3OSAzLjM5NzU3TDE3LjU4MzcgNi43NjUyMUwxNy41ODc1IDYuNzcyNjhaTTE3LjU4NjMgMTcuMzk1NUwyOC41MTc0IDguNzc0MzJMMjQuMjgxNiA1LjQwNjY5TDE3LjU4NjMgMTAuNjY2M0wxMC44OTEgNS40MDY2OUw2LjY1NTE3IDguNzc0MzJMMTcuNTg2MyAxNy4zOTU1Wk0xNy41ODYzIDI3Ljk5OTlMMzUuMTc0NiAxNC4xMjU1TDMwLjkzODggMTAuNzU3OUwxNy41ODYzIDAuMDA3NDgyMzdMMTcuNTgyNSAwTDQuMjMgMTAuNzUwNEwwIDE0LjExNzlMMTcuNTgyNSAyOEwxNy41ODYzIDI3Ljk5OTlaIiBmaWxsPSIjMUU4MEZGIi8+Cjwvc3ZnPgo=" alt="掘金">
+    </a>
     <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D-UJiMeiniversity-Zhuang" alt="">
     <img src="https://komarev.com/ghpvc/?username=JiMei-University-Zhuang&&style=flat-square">
 </div>
