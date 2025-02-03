@@ -27,7 +27,11 @@
     <p>✨ 让我们一起用技术创造美好</p>
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiMei-University-Zhuang" />
+    <img src="https://streak-stats.demolab.com?user=JiMei-University-Zhuang&theme=tokyonight" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiMei-University-Zhuang&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiMei-University-Zhuang&layout=compact&theme=tokyonight" height="170px">
 </div>
 
 <picture>
