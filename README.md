@@ -26,6 +26,9 @@
     <p>💬 欢迎交流前端技术和开发经验</p>
     <p>✨ 让我们一起用技术创造美好</p>
 </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiMei-University-Zhuang" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiMei-University-Zhuang/JiMei-University-Zhuang/output/github-contribution-grid-snake-dark.svg">
