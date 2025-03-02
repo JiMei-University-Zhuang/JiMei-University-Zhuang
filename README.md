@@ -26,13 +26,27 @@
     <p>✨ 让我们一起用技术创造美好</p>
 </div>
 <div align="center">
-    [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://react.dev/)
-[![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)](https://vuejs.org/)
-[![Hybrid](https://img.shields.io/badge/hybrid-47848F?style=for-the-badge&logo=ionic&logoColor=fff)]()
-[![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)](https://nestjs.com/)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)](https://nextjs.org/)
-[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)](https://webpack.js.org/)
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
+    </a>
+    <a href="https://react.dev/">
+        <img src="https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react" alt="React">
+    </a>
+    <a href="https://vuejs.org/">
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff" alt="Vue.js">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/hybrid-47848F?style=for-the-badge&logo=ionic&logoColor=fff" alt="Hybrid">
+    </a>
+    <a href="https://nestjs.com/">
+        <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" alt="NestJS">
+    </a>
+    <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js">
+    </a>
+    <a href="https://webpack.js.org/">
+        <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000" alt="Webpack">
+    </a>
 </div>
 
 <picture>
