@@ -20,14 +20,19 @@
     <h3>👨‍💻 About Me</h3>
     <p>🎓 就读于集美大学诚毅学院软件工程系</p>
     <p>💼 正在美图担任前端开发实习生</p>
-    <p>📷 负责美图秀秀、Wink产品线研发，对H5、动效领域十分感兴趣</p>
+    <p>📷 参与美图秀秀、Wink产品线研发建设，热衷于研究H5、动效领域</p>
     <p>💡 正在学习Hybrid、React Native、小程序等跨端技术</p>
     <p>💬 欢迎交流前端技术和开发经验</p>
     <p>✨ 让我们一起用技术创造美好</p>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiMei-University-Zhuang&theme=tokyonight&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiMei-University-Zhuang&layout=compact&theme=tokyonight" height="170px">
+    [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)](https://vuejs.org/)
+[![Hybrid](https://img.shields.io/badge/hybrid-47848F?style=for-the-badge&logo=ionic&logoColor=fff)]()
+[![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)](https://nextjs.org/)
+[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)](https://webpack.js.org/)
 </div>
 
 <picture>
